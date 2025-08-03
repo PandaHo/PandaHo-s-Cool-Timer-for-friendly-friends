@@ -1,7 +1,7 @@
 # Panda's Cool Timer for Friendly Friends :>
 # Copyright (c) 2025 PandaHo Phinfoshly
 #
-# This software is released under the MIT License.
+# This software is released under the GNU General Public License v3.0.
 # See the LICENSE file for more details.
 
 
