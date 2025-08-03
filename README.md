@@ -113,9 +113,11 @@ pyinstaller --onefile --windowed --icon="timer_icon.ico" --hidden-import=_cffi_b
 
 
 
-📜 License
+## 📜 License
 
-This project is released under the MIT License. See the LICENSE file for full details. You are free to use, modify, and distribute this software.
+This project is licensed under the **GNU General Public License v3.0**. See the `LICENSE` file for the full text.
+
+This means you are free to use, study, share, and modify the software. If you distribute a modified version, you must also release your changes under the same license.
 
 Copyright:
 
