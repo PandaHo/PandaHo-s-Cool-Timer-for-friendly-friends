@@ -57,7 +57,6 @@ cd YourRepoName
     
 
 
-Use code with caution.
 
 
 Create a virtual environment (recommended):
