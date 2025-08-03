@@ -58,9 +58,9 @@ cd YourRepoName
 
     
 
-IGNORE_WHEN_COPYING_START
+
 Use code with caution. Bash
-IGNORE_WHEN_COPYING_END
+
 
 Create a virtual environment (recommended):
 Generated bash
@@ -76,9 +76,9 @@ source venv/bin/activate
 
     
 
-IGNORE_WHEN_COPYING_START
+
 Use code with caution. Bash
-IGNORE_WHEN_COPYING_END
+
 
 Install the dependencies:
 Generated bash
@@ -88,9 +88,9 @@ pip install -r requirements.txt
 
     
 
-IGNORE_WHEN_COPYING_START
+
 Use code with caution. Bash
-IGNORE_WHEN_COPYING_END
+
 
 (Note: Make sure you have created a requirements.txt file by running pip freeze > requirements.txt in your project folder.)
 
@@ -102,10 +102,10 @@ python timer.py
 
     
 
-IGNORE_WHEN_COPYING_START
+
 
     Use code with caution. Bash
-    IGNORE_WHEN_COPYING_END
+    
 
 Compiling to an Executable
 
@@ -118,9 +118,9 @@ pyinstaller --onefile --windowed --icon="timer_icon.ico" --hidden-import=_cffi_b
 
     
 
-IGNORE_WHEN_COPYING_START
+
 Use code with caution. Bash
-IGNORE_WHEN_COPYING_END
+
 
 📜 License
 
