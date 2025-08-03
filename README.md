@@ -2,6 +2,7 @@
 A feature-rich desktop timer and notes application built with Python and Tkinter. This isn't just a timer; it's a powerful companion for managing tasks, tracking goals, and staying focused.
 
 (Note: You should replace this link with a real screenshot of your application! Upload your screenshot to your GitHub repository and link to it.)
+
 ✨ Key Features
 
 This application is packed with features designed to be both powerful and easy to use:
@@ -59,11 +60,10 @@ cd YourRepoName
     
 
 
-Use code with caution. Bash
+Use code with caution.
 
 
 Create a virtual environment (recommended):
-Generated bash
 
       
 # For Windows
@@ -77,11 +77,10 @@ source venv/bin/activate
     
 
 
-Use code with caution. Bash
+
 
 
 Install the dependencies:
-Generated bash
 
       
 pip install -r requirements.txt
@@ -89,13 +88,12 @@ pip install -r requirements.txt
     
 
 
-Use code with caution. Bash
+
 
 
 (Note: Make sure you have created a requirements.txt file by running pip freeze > requirements.txt in your project folder.)
 
 Run the application:
-Generated bash
 
       
 python timer.py
@@ -104,13 +102,12 @@ python timer.py
 
 
 
-    Use code with caution. Bash
+    
     
 
 Compiling to an Executable
 
 To create your own standalone .exe file, use the provided PyInstaller command. For a clean build, it's best to delete the build/ and dist/ folders first.
-Generated bash
 
       
 # Ensure you are in the project's root directory
@@ -119,7 +116,7 @@ pyinstaller --onefile --windowed --icon="timer_icon.ico" --hidden-import=_cffi_b
     
 
 
-Use code with caution. Bash
+
 
 
 📜 License
