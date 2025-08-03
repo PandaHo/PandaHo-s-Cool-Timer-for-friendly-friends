@@ -50,10 +50,7 @@ Prerequisites
 
 Building from Source
 
-    Clone the repository:
-    Generated bash
-
-      
+Clone the repository:
 git clone https://github.com/YourUsername/YourRepoName.git
 cd YourRepoName
 
