@@ -1,7 +1,7 @@
 # PandaHo's Cool Timer for Nice Dudes
 A feature-rich desktop timer and notes application built with Python and Tkinter. This isn't just a timer; it's a powerful companion for managing tasks, tracking goals, and staying focused.
 
-(Note: You should replace this link with a real screenshot of your application! Upload your screenshot to your GitHub repository and link to it.)
+<img width="475" height="417" alt="Screenshot_12" src="https://github.com/user-attachments/assets/dc92b82f-4587-4aa2-9399-74f8ede33c5f" />
 
 ✨ Key Features
 
@@ -90,8 +90,6 @@ pip install -r requirements.txt
 
 
 
-
-(Note: Make sure you have created a requirements.txt file by running pip freeze > requirements.txt in your project folder.)
 
 Run the application:
 
